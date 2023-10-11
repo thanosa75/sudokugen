@@ -1,26 +1,43 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { useState, useEffect } from 'react';
+import InputComponent from './InputComponent';
+import SudokuBoard from './SudokuBoard';
+import { generateSudoku } from './sudokuGenerator';
+import boardStyles from './SudokuBoard.module.css'; // Assuming this is the path
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+
+const App: React.FC = () => {
+    const [difficulty, setDifficulty] = useState(20);
+    const [boardCount, setBoardCount] = useState(3);
+    const [boards, setBoards] = useState<(number | null)[][][]>([]);
+
+    useEffect(() => {
+        const generatedBoards = generateSudoku(difficulty, boardCount);
+        setBoards(generatedBoards);
+        generatedBoards.forEach(board => {
+          // Remove cells based on difficulty to create the puzzle
+          for (let i = 0; i < difficulty; i++) {
+            const row = Math.floor(Math.random() * 9);
+            const col = Math.floor(Math.random() * 9);
+            board[row][col] = null;
+          }
+        });
+    }, [difficulty, boardCount]);
+
+    return (
+        <div>
+            <h1>Sudoku Generator</h1>
+            <InputComponent 
+                onDifficultyChange={setDifficulty} 
+                onBoardCountChange={setBoardCount}
+            />
+            <div className={boardStyles.boardcontainer}>
+              {boards.map((board, boardIndex) => (
+              <SudokuBoard key={boardIndex} board={board} />
+
+            ))}
+            </div>
+        </div>
+    );
 }
 
 export default App;

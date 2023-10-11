@@ -1,0 +1,50 @@
+
+.board {
+    display: grid;
+    grid-template-columns: repeat(9, 1fr);
+    width: 298px;
+    border: 2px solid black;
+}
+
+
+.boardcontainer {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Explicitly define three columns */
+    gap: 10px; /* Space between the grids */
+    padding: 10px;
+  }
+.cell {
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.3em;
+    background-color: #f5f5f5;
+    border: 1px solid #ddd;
+}
+
+/* Add thicker right border for cells at 3rd and 6th positions in each row */
+.cell:nth-child(3n) {
+    border-right: 2px solid black;
+}
+
+/* Add thicker bottom border for cells in 3rd and 6th rows */
+.cell:nth-child(n+19):nth-child(-n+27),
+.cell:nth-child(n+46):nth-child(-n+54) {
+    border-bottom: 2px solid black;
+}
+
+
+@media print {
+    body * {
+        visibility: hidden;
+    }
+
+    /* Only show the Sudoku board */
+    .board,
+    .board * {
+        visibility: visible;
+    }
+
+}
