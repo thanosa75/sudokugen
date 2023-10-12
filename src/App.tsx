@@ -7,7 +7,7 @@ import boardStyles from './SudokuBoard.module.css'; // Assuming this is the path
 
 const App: React.FC = () => {
     const [difficulty, setDifficulty] = useState(20);
-    const [boardCount, setBoardCount] = useState(3);
+    const [boardCount, setBoardCount] = useState(9);
     const [boards, setBoards] = useState<(number | null)[][][]>([]);
 
     useEffect(() => {
@@ -25,7 +25,7 @@ const App: React.FC = () => {
 
     return (
         <div>
-            <h1>Sudoku Generator</h1>
+            <h1>Γεννήτρια Sudoku (数独)</h1>
             <InputComponent 
                 onDifficultyChange={setDifficulty} 
                 onBoardCountChange={setBoardCount}

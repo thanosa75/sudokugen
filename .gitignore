@@ -1342,3 +1342,405 @@ yarn-error.log*
 .yarn/cache/yargs-npm-16.2.0-547873d425-b14afbb51e.zip
 .yarn/cache/yargs-parser-npm-20.2.9-a1d19e598d-8bb69015f2.zip
 .yarn/cache/yocto-queue-npm-0.1.0-c6c9a7db29-f77b3d8d00.zip
+dist/builder-debug.yml
+dist/builder-effective-config.yaml
+dist/sudoku-generator 0.1.0.exe
+dist/sudoku-generator Setup 0.1.0.exe
+dist/sudoku-generator Setup 0.1.0.exe.blockmap
+dist/sudoku-generator-0.1.0-arm64.dmg
+dist/sudoku-generator-0.1.0-arm64.dmg.blockmap
+dist/mac-arm64/sudoku-generator.app/Contents/Info.plist
+dist/mac-arm64/sudoku-generator.app/Contents/PkgInfo
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Electron Framework
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Helpers
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Libraries
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Resources
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Versions/Current
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Electron Framework
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Helpers/chrome_crashpad_handler
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Libraries/libEGL.dylib
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Libraries/libffmpeg.dylib
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Libraries/libGLESv2.dylib
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Libraries/libvk_swiftshader.dylib
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Libraries/vk_swiftshader_icd.json
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/chrome_100_percent.pak
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/chrome_200_percent.pak
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/icudtl.dat
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/Info.plist
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/MainMenu.nib
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/resources.pak
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/v8_context_snapshot.arm64.bin
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/af.lproj/locale.pak
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/am.lproj/locale.pak
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ar.lproj/locale.pak
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/bg.lproj/locale.pak
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/bn.lproj/locale.pak
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ca.lproj/locale.pak
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/cs.lproj/locale.pak
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/da.lproj/locale.pak
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/de.lproj/locale.pak
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/el.lproj/locale.pak
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/en.lproj/locale.pak
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/en_GB.lproj/locale.pak
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/es.lproj/locale.pak
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/es_419.lproj/locale.pak
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/et.lproj/locale.pak
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/fa.lproj/locale.pak
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/fi.lproj/locale.pak
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/fil.lproj/locale.pak
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/fr.lproj/locale.pak
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/gu.lproj/locale.pak
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/he.lproj/locale.pak
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/hi.lproj/locale.pak
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/hr.lproj/locale.pak
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/hu.lproj/locale.pak
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/id.lproj/locale.pak
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/it.lproj/locale.pak
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ja.lproj/locale.pak
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/kn.lproj/locale.pak
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ko.lproj/locale.pak
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/lt.lproj/locale.pak
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/lv.lproj/locale.pak
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ml.lproj/locale.pak
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/mr.lproj/locale.pak
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ms.lproj/locale.pak
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/nb.lproj/locale.pak
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/nl.lproj/locale.pak
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/pl.lproj/locale.pak
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/pt_BR.lproj/locale.pak
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/pt_PT.lproj/locale.pak
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ro.lproj/locale.pak
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ru.lproj/locale.pak
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/sk.lproj/locale.pak
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/sl.lproj/locale.pak
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/sr.lproj/locale.pak
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/sv.lproj/locale.pak
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/sw.lproj/locale.pak
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ta.lproj/locale.pak
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/te.lproj/locale.pak
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/th.lproj/locale.pak
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/tr.lproj/locale.pak
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/uk.lproj/locale.pak
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ur.lproj/locale.pak
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/vi.lproj/locale.pak
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/zh_CN.lproj/locale.pak
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/zh_TW.lproj/locale.pak
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Mantle.framework/Mantle
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Mantle.framework/Resources
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Mantle.framework/Versions/Current
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Mantle.framework/Versions/A/Mantle
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Mantle.framework/Versions/A/Resources/Info.plist
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/ReactiveObjC.framework/ReactiveObjC
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/ReactiveObjC.framework/Resources
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/ReactiveObjC.framework/Versions/Current
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/ReactiveObjC.framework/Versions/A/ReactiveObjC
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/ReactiveObjC.framework/Versions/A/Resources/Info.plist
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Squirrel.framework/Resources
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Squirrel.framework/Squirrel
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Squirrel.framework/Versions/Current
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Squirrel.framework/Versions/A/Squirrel
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Squirrel.framework/Versions/A/Resources/Info.plist
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/Squirrel.framework/Versions/A/Resources/ShipIt
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/sudoku-generator Helper (GPU).app/Contents/Info.plist
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/sudoku-generator Helper (GPU).app/Contents/PkgInfo
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/sudoku-generator Helper (GPU).app/Contents/MacOS/sudoku-generator Helper (GPU)
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/sudoku-generator Helper (Plugin).app/Contents/Info.plist
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/sudoku-generator Helper (Plugin).app/Contents/PkgInfo
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/sudoku-generator Helper (Plugin).app/Contents/MacOS/sudoku-generator Helper (Plugin)
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/sudoku-generator Helper (Renderer).app/Contents/Info.plist
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/sudoku-generator Helper (Renderer).app/Contents/PkgInfo
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/sudoku-generator Helper (Renderer).app/Contents/MacOS/sudoku-generator Helper (Renderer)
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/sudoku-generator Helper.app/Contents/Info.plist
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/sudoku-generator Helper.app/Contents/PkgInfo
+dist/mac-arm64/sudoku-generator.app/Contents/Frameworks/sudoku-generator Helper.app/Contents/MacOS/sudoku-generator Helper
+dist/mac-arm64/sudoku-generator.app/Contents/MacOS/sudoku-generator
+dist/mac-arm64/sudoku-generator.app/Contents/Resources/app.asar
+dist/mac-arm64/sudoku-generator.app/Contents/Resources/electron.icns
+dist/win-arm64-unpacked/chrome_100_percent.pak
+dist/win-arm64-unpacked/chrome_200_percent.pak
+dist/win-arm64-unpacked/d3dcompiler_47.dll
+dist/win-arm64-unpacked/ffmpeg.dll
+dist/win-arm64-unpacked/icudtl.dat
+dist/win-arm64-unpacked/libEGL.dll
+dist/win-arm64-unpacked/libGLESv2.dll
+dist/win-arm64-unpacked/LICENSE.electron.txt
+dist/win-arm64-unpacked/LICENSES.chromium.html
+dist/win-arm64-unpacked/resources.pak
+dist/win-arm64-unpacked/snapshot_blob.bin
+dist/win-arm64-unpacked/sudoku-generator.exe
+dist/win-arm64-unpacked/v8_context_snapshot.bin
+dist/win-arm64-unpacked/vk_swiftshader_icd.json
+dist/win-arm64-unpacked/vk_swiftshader.dll
+dist/win-arm64-unpacked/vulkan-1.dll
+dist/win-arm64-unpacked/locales/af.pak
+dist/win-arm64-unpacked/locales/am.pak
+dist/win-arm64-unpacked/locales/ar.pak
+dist/win-arm64-unpacked/locales/bg.pak
+dist/win-arm64-unpacked/locales/bn.pak
+dist/win-arm64-unpacked/locales/ca.pak
+dist/win-arm64-unpacked/locales/cs.pak
+dist/win-arm64-unpacked/locales/da.pak
+dist/win-arm64-unpacked/locales/de.pak
+dist/win-arm64-unpacked/locales/el.pak
+dist/win-arm64-unpacked/locales/en-GB.pak
+dist/win-arm64-unpacked/locales/en-US.pak
+dist/win-arm64-unpacked/locales/es-419.pak
+dist/win-arm64-unpacked/locales/es.pak
+dist/win-arm64-unpacked/locales/et.pak
+dist/win-arm64-unpacked/locales/fa.pak
+dist/win-arm64-unpacked/locales/fi.pak
+dist/win-arm64-unpacked/locales/fil.pak
+dist/win-arm64-unpacked/locales/fr.pak
+dist/win-arm64-unpacked/locales/gu.pak
+dist/win-arm64-unpacked/locales/he.pak
+dist/win-arm64-unpacked/locales/hi.pak
+dist/win-arm64-unpacked/locales/hr.pak
+dist/win-arm64-unpacked/locales/hu.pak
+dist/win-arm64-unpacked/locales/id.pak
+dist/win-arm64-unpacked/locales/it.pak
+dist/win-arm64-unpacked/locales/ja.pak
+dist/win-arm64-unpacked/locales/kn.pak
+dist/win-arm64-unpacked/locales/ko.pak
+dist/win-arm64-unpacked/locales/lt.pak
+dist/win-arm64-unpacked/locales/lv.pak
+dist/win-arm64-unpacked/locales/ml.pak
+dist/win-arm64-unpacked/locales/mr.pak
+dist/win-arm64-unpacked/locales/ms.pak
+dist/win-arm64-unpacked/locales/nb.pak
+dist/win-arm64-unpacked/locales/nl.pak
+dist/win-arm64-unpacked/locales/pl.pak
+dist/win-arm64-unpacked/locales/pt-BR.pak
+dist/win-arm64-unpacked/locales/pt-PT.pak
+dist/win-arm64-unpacked/locales/ro.pak
+dist/win-arm64-unpacked/locales/ru.pak
+dist/win-arm64-unpacked/locales/sk.pak
+dist/win-arm64-unpacked/locales/sl.pak
+dist/win-arm64-unpacked/locales/sr.pak
+dist/win-arm64-unpacked/locales/sv.pak
+dist/win-arm64-unpacked/locales/sw.pak
+dist/win-arm64-unpacked/locales/ta.pak
+dist/win-arm64-unpacked/locales/te.pak
+dist/win-arm64-unpacked/locales/th.pak
+dist/win-arm64-unpacked/locales/tr.pak
+dist/win-arm64-unpacked/locales/uk.pak
+dist/win-arm64-unpacked/locales/ur.pak
+dist/win-arm64-unpacked/locales/vi.pak
+dist/win-arm64-unpacked/locales/zh-CN.pak
+dist/win-arm64-unpacked/locales/zh-TW.pak
+dist/win-arm64-unpacked/resources/app.asar
+dist/win-arm64-unpacked/resources/elevate.exe
+dist/win-unpacked/chrome_100_percent.pak
+dist/win-unpacked/chrome_200_percent.pak
+dist/win-unpacked/d3dcompiler_47.dll
+dist/win-unpacked/ffmpeg.dll
+dist/win-unpacked/icudtl.dat
+dist/win-unpacked/libEGL.dll
+dist/win-unpacked/libGLESv2.dll
+dist/win-unpacked/LICENSE.electron.txt
+dist/win-unpacked/LICENSES.chromium.html
+dist/win-unpacked/resources.pak
+dist/win-unpacked/snapshot_blob.bin
+dist/win-unpacked/sudoku-generator.exe
+dist/win-unpacked/v8_context_snapshot.bin
+dist/win-unpacked/vk_swiftshader_icd.json
+dist/win-unpacked/vk_swiftshader.dll
+dist/win-unpacked/vulkan-1.dll
+dist/win-unpacked/locales/af.pak
+dist/win-unpacked/locales/am.pak
+dist/win-unpacked/locales/ar.pak
+dist/win-unpacked/locales/bg.pak
+dist/win-unpacked/locales/bn.pak
+dist/win-unpacked/locales/ca.pak
+dist/win-unpacked/locales/cs.pak
+dist/win-unpacked/locales/da.pak
+dist/win-unpacked/locales/de.pak
+dist/win-unpacked/locales/el.pak
+dist/win-unpacked/locales/en-GB.pak
+dist/win-unpacked/locales/en-US.pak
+dist/win-unpacked/locales/es-419.pak
+dist/win-unpacked/locales/es.pak
+dist/win-unpacked/locales/et.pak
+dist/win-unpacked/locales/fa.pak
+dist/win-unpacked/locales/fi.pak
+dist/win-unpacked/locales/fil.pak
+dist/win-unpacked/locales/fr.pak
+dist/win-unpacked/locales/gu.pak
+dist/win-unpacked/locales/he.pak
+dist/win-unpacked/locales/hi.pak
+dist/win-unpacked/locales/hr.pak
+dist/win-unpacked/locales/hu.pak
+dist/win-unpacked/locales/id.pak
+dist/win-unpacked/locales/it.pak
+dist/win-unpacked/locales/ja.pak
+dist/win-unpacked/locales/kn.pak
+dist/win-unpacked/locales/ko.pak
+dist/win-unpacked/locales/lt.pak
+dist/win-unpacked/locales/lv.pak
+dist/win-unpacked/locales/ml.pak
+dist/win-unpacked/locales/mr.pak
+dist/win-unpacked/locales/ms.pak
+dist/win-unpacked/locales/nb.pak
+dist/win-unpacked/locales/nl.pak
+dist/win-unpacked/locales/pl.pak
+dist/win-unpacked/locales/pt-BR.pak
+dist/win-unpacked/locales/pt-PT.pak
+dist/win-unpacked/locales/ro.pak
+dist/win-unpacked/locales/ru.pak
+dist/win-unpacked/locales/sk.pak
+dist/win-unpacked/locales/sl.pak
+dist/win-unpacked/locales/sr.pak
+dist/win-unpacked/locales/sv.pak
+dist/win-unpacked/locales/sw.pak
+dist/win-unpacked/locales/ta.pak
+dist/win-unpacked/locales/te.pak
+dist/win-unpacked/locales/th.pak
+dist/win-unpacked/locales/tr.pak
+dist/win-unpacked/locales/uk.pak
+dist/win-unpacked/locales/ur.pak
+dist/win-unpacked/locales/vi.pak
+dist/win-unpacked/locales/zh-CN.pak
+dist/win-unpacked/locales/zh-TW.pak
+dist/win-unpacked/resources/app.asar
+dist/win-unpacked/resources/elevate.exe
+.yarn/cache/@babel-compat-data-npm-7.23.2-763f35b25b-d8dc27437d.zip
+.yarn/cache/@babel-core-npm-7.23.2-b93f586907-003897718d.zip
+.yarn/cache/@babel-helpers-npm-7.23.2-aa45e8b40c-aaf4828df7.zip
+.yarn/cache/@babel-plugin-proposal-decorators-npm-7.23.2-b21d57fbc4-a8f63451c4.zip
+.yarn/cache/@babel-plugin-transform-async-generator-functions-npm-7.23.2-9f86bedc4a-e1abae0edc.zip
+.yarn/cache/@babel-plugin-transform-runtime-npm-7.23.2-4ca16d9ce0-09f4273bfe.zip
+.yarn/cache/@babel-preset-env-npm-7.23.2-a574e081f9-49327ef584.zip
+.yarn/cache/@babel-preset-typescript-npm-7.23.2-c043c3bf66-c4b065c90e.zip
+.yarn/cache/@babel-runtime-npm-7.23.2-d013d6cf7e-6c4df4839e.zip
+.yarn/cache/@babel-traverse-npm-7.23.2-4758feee42-26a1eea0dd.zip
+.yarn/cache/@develar-schema-utils-npm-2.6.5-6c3f4e1579-e1c3771af7.zip
+.yarn/cache/@electron-asar-npm-3.2.7-f1a1a52746-bd47db31f9.zip
+.yarn/cache/@electron-get-npm-2.0.3-d576982a3c-98f7713e1d.zip
+.yarn/cache/@electron-notarize-npm-2.1.0-300931d556-ac58f39f4b.zip
+.yarn/cache/@electron-osx-sign-npm-1.0.5-22146fb2fe-6c662e8bb4.zip
+.yarn/cache/@electron-universal-npm-1.4.1-4989028044-257f3a25a4.zip
+.yarn/cache/@malept-cross-spawn-promise-npm-1.1.1-f60cae05fd-1aa468f9ff.zip
+.yarn/cache/@malept-flatpak-bundler-npm-0.4.0-fb94377955-12527e42c2.zip
+.yarn/cache/@sindresorhus-is-npm-4.6.0-7cad05c55e-83839f13da.zip
+.yarn/cache/@szmarczak-http-timer-npm-4.0.6-6ace00d82d-c29df3bcec.zip
+.yarn/cache/@types-cacheable-request-npm-6.0.3-770619032a-d9b26403fe.zip
+.yarn/cache/@types-debug-npm-4.1.9-8e7cf27fbd-e88ee8b19d.zip
+.yarn/cache/@types-fs-extra-npm-9.0.13-12fb7badd7-add79e212a.zip
+.yarn/cache/@types-http-cache-semantics-npm-4.0.2-9ea63724a1-513429786a.zip
+.yarn/cache/@types-keyv-npm-3.1.4-a8082ea56b-e009a2bfb5.zip
+.yarn/cache/@types-ms-npm-0.7.32-38dadca018-610744605c.zip
+.yarn/cache/@types-node-npm-18.18.4-46b1ad9d73-4901e91c4c.zip
+.yarn/cache/@types-plist-npm-3.0.3-22de0d02e7-3208f7ef60.zip
+.yarn/cache/@types-responselike-npm-1.0.1-f495d21276-ae8c36c935.zip
+.yarn/cache/@types-verror-npm-1.10.7-bafa2602a4-9f48f3aa5b.zip
+.yarn/cache/@types-yauzl-npm-2.10.1-24265fa277-3377916a2d.zip
+.yarn/cache/@xmldom-xmldom-npm-0.8.10-c1bd991e61-4c136aec31.zip
+.yarn/cache/7zip-bin-npm-5.1.1-802410de68-1e58ba3742.zip
+.yarn/cache/app-builder-bin-npm-4.0.0-3b4b4b9451-c3c8fd85c3.zip
+.yarn/cache/app-builder-lib-npm-24.6.4-e3349a39da-fda8a63e4e.zip
+.yarn/cache/assert-plus-npm-1.0.0-cac95ef098-19b4340cb8.zip
+.yarn/cache/astral-regex-npm-2.0.0-f30d866aab-876231688c.zip
+.yarn/cache/async-exit-hook-npm-2.0.1-09570c5c6b-b72cbdd19e.zip
+.yarn/cache/base64-js-npm-1.5.1-b2f7275641-669632eb37.zip
+.yarn/cache/bluebird-lst-npm-1.0.9-7a88c17b45-5662542d73.zip
+.yarn/cache/boolean-npm-3.2.0-168c1e42cc-fb29535b8b.zip
+.yarn/cache/buffer-crc32-npm-0.2.13-c4b6fceac1-06252347ae.zip
+.yarn/cache/buffer-equal-npm-1.0.1-eca4aa6d0d-6ead0f9767.zip
+.yarn/cache/buffer-npm-5.7.1-513ef8259e-e2cf8429e1.zip
+.yarn/cache/builder-util-npm-24.5.0-a07c87f8f4-8f3b27bccf.zip
+.yarn/cache/builder-util-runtime-npm-9.2.1-4ad74f3b5a-6933e086b8.zip
+.yarn/cache/cacheable-lookup-npm-5.0.4-8f13e8b44b-763e02cf91.zip
+.yarn/cache/cacheable-request-npm-7.0.4-92bf077a92-0de9df773f.zip
+.yarn/cache/chromium-pickle-js-npm-0.2.0-ab332c66b8-5ccacc538b.zip
+.yarn/cache/cli-truncate-npm-2.1.0-72184d3467-bf1e4e6195.zip
+.yarn/cache/cliui-npm-8.0.1-3b029092cf-79648b3b00.zip
+.yarn/cache/clone-response-npm-1.0.3-f71cb6aff5-4e671cac39.zip
+.yarn/cache/commander-npm-5.1.0-7e939e7832-0b7fec1712.zip
+.yarn/cache/compare-version-npm-0.1.2-3acf223728-0ceaf50b5f.zip
+.yarn/cache/config-file-ts-npm-0.2.4-97788fbb47-c7032064c0.zip
+.yarn/cache/core-util-is-npm-1.0.2-9fc2b94dc3-7a4c925b49.zip
+.yarn/cache/crc-npm-3.8.0-ff6ff34fbe-dabbc4eba2.zip
+.yarn/cache/decompress-response-npm-6.0.0-359de2878c-d377cf47e0.zip
+.yarn/cache/defer-to-connect-npm-2.0.1-9005cc8c60-8a9b50d2f2.zip
+.yarn/cache/dir-compare-npm-3.3.0-f1b755cdf8-05e7381509.zip
+.yarn/cache/dmg-builder-npm-24.6.4-dae5be8a86-2a52839b2d.zip
+.yarn/cache/dmg-license-npm-1.0.11-e97c20b75a-8.zip
+.yarn/cache/dotenv-npm-9.0.2-fd127dfe81-6b7980330a.zip
+.yarn/cache/electron-builder-npm-24.6.4-7f3e929cd4-efada633e2.zip
+.yarn/cache/electron-npm-27.0.0-210e9ddea3-4a84cb894d.zip
+.yarn/cache/electron-publish-npm-24.5.0-d4bb7d43ee-7f31b5f2fc.zip
+.yarn/cache/electron-to-chromium-npm-1.4.551-b3b74dabf1-80f05eaefa.zip
+.yarn/cache/end-of-stream-npm-1.4.4-497fc6dee1-530a5a5a1e.zip
+.yarn/cache/es6-error-npm-4.1.1-5e8c22b20f-ae41332a51.zip
+.yarn/cache/extract-zip-npm-2.0.1-92a28e392b-8cbda9debd.zip
+.yarn/cache/extsprintf-npm-1.4.1-140b2f27ab-a2f29b2419.zip
+.yarn/cache/fd-slicer-npm-1.1.0-3cade0050a-c8585fd571.zip
+.yarn/cache/form-data-npm-4.0.0-916facec2d-01135bf867.zip
+.yarn/cache/fs-extra-npm-8.1.0-197473387f-bf44f0e6ce.zip
+.yarn/cache/get-stream-npm-5.2.0-2cfd3b452b-8bc1a23174.zip
+.yarn/cache/global-agent-npm-3.0.0-44e12bb199-75074d8073.zip
+.yarn/cache/got-npm-11.8.6-89e7cd5d67-bbc783578a.zip
+.yarn/cache/hosted-git-info-npm-4.1.0-4efcdf8fd3-c3f87b3c2f.zip
+.yarn/cache/http2-wrapper-npm-1.0.3-5b58ade1df-74160b862e.zip
+.yarn/cache/iconv-corefoundation-npm-1.1.7-4da2c25ddf-8.zip
+.yarn/cache/ieee754-npm-1.2.1-fb63b3caeb-5144c0c981.zip
+.yarn/cache/is-ci-npm-3.0.1-d9aea361e1-192c66dc78.zip
+.yarn/cache/isbinaryfile-npm-4.0.10-91d1251522-a6b28db7e2.zip
+.yarn/cache/isbinaryfile-npm-5.0.0-e98524e7a5-25cc27388d.zip
+.yarn/cache/json-stringify-safe-npm-5.0.1-064ddd6ab4-48ec0adad5.zip
+.yarn/cache/jsonfile-npm-4.0.0-10ce3aea15-6447d6224f.zip
+.yarn/cache/lazy-val-npm-1.0.5-cc6664fb80-31e12e0b11.zip
+.yarn/cache/lowercase-keys-npm-2.0.0-1876065a32-24d7ebd56c.zip
+.yarn/cache/matcher-npm-3.0.0-d32d29365e-8bee1a7ab7.zip
+.yarn/cache/memfs-npm-3.5.3-58186f00bb-18dfdeacad.zip
+.yarn/cache/mime-npm-2.6.0-88b89d8de0-1497ba7b9f.zip
+.yarn/cache/mimic-response-npm-1.0.1-f6f85dde84-034c78753b.zip
+.yarn/cache/mimic-response-npm-3.1.0-a4a24b4e96-25739fee32.zip
+.yarn/cache/node-addon-api-npm-1.7.2-c341ccaeb6-938922b3d7.zip
+.yarn/cache/p-cancelable-npm-2.1.1-9388305f02-3dba12b4fb.zip
+.yarn/cache/pend-npm-1.2.0-7a13d93266-6c72f52433.zip
+.yarn/cache/plist-npm-3.1.0-66799cb2cb-c8ea013da8.zip
+.yarn/cache/progress-npm-2.0.3-d1f87e2ac6-f67403fe7b.zip
+.yarn/cache/pump-npm-3.0.0-0080bf6a7a-e42e9229fb.zip
+.yarn/cache/quick-lru-npm-5.1.1-e38e0edce3-a516faa255.zip
+.yarn/cache/read-config-file-npm-6.3.2-f725eb295c-bb4862851b.zip
+.yarn/cache/resolve-alpn-npm-1.2.1-af77edd28b-f558071fcb.zip
+.yarn/cache/responselike-npm-2.0.1-7f64b6e122-b122535466.zip
+.yarn/cache/roarr-npm-2.15.4-a3dcbf0852-682e28d549.zip
+.yarn/cache/sanitize-filename-npm-1.6.3-cb83b2c2aa-aa733c012b.zip
+.yarn/cache/sax-npm-1.3.0-e6c479267f-238ab3a9ba.zip
+.yarn/cache/semver-compare-npm-1.0.0-33f7033df0-dd1d7e2909.zip
+.yarn/cache/serialize-error-npm-7.0.1-c0b3f881a0-e0aba4dca2.zip
+.yarn/cache/simple-update-notifier-npm-2.0.0-4d6e5dba61-9ba00d38ce.zip
+.yarn/cache/slice-ansi-npm-3.0.0-d9999864af-5ec6d022d1.zip
+.yarn/cache/sprintf-js-npm-1.1.3-b99efd75b2-a3fdac7b49.zip
+.yarn/cache/stat-mode-npm-1.0.0-e8d0dcec9e-f9daea2dba.zip
+.yarn/cache/sumchecker-npm-3.0.1-b6973781e3-31ba7a62c8.zip
+.yarn/cache/temp-file-npm-3.4.0-7802dcdd81-8e2b90321c.zip
+.yarn/cache/tmp-npm-0.2.1-a9c8d9c0ca-8b12146541.zip
+.yarn/cache/tmp-promise-npm-3.0.3-6df4ad8df9-f854f5307d.zip
+.yarn/cache/truncate-utf8-bytes-npm-1.0.2-ed694c53b0-ad09731470.zip
+.yarn/cache/type-fest-npm-0.13.1-7f4486b973-e6bf2e3c44.zip
+.yarn/cache/universalify-npm-0.1.2-9b22d31d2d-40cdc60f6e.zip
+.yarn/cache/utf8-byte-length-npm-1.0.4-cf13f06124-f188ca076e.zip
+.yarn/cache/verror-npm-1.10.1-b32918fe63-690a8d6ad5.zip
+.yarn/cache/workbox-background-sync-npm-6.6.0-9d7253959c-ac29901106.zip
+.yarn/cache/workbox-broadcast-update-npm-6.6.0-f36dfd50b0-46a74b3b70.zip
+.yarn/cache/workbox-build-npm-6.6.0-3d8f742cc2-cd1a6c4136.zip
+.yarn/cache/workbox-cacheable-response-npm-6.6.0-bc02dc9e67-9e4e00c536.zip
+.yarn/cache/workbox-core-npm-6.6.0-498740a171-7d773a866b.zip
+.yarn/cache/workbox-expiration-npm-6.6.0-f36fa69708-b100b9c512.zip
+.yarn/cache/workbox-google-analytics-npm-6.6.0-9b5d2fcb5c-7b287da751.zip
+.yarn/cache/workbox-navigation-preload-npm-6.6.0-ad8c127b21-d254465648.zip
+.yarn/cache/workbox-precaching-npm-6.6.0-6cdfaf7063-62e5ee2e40.zip
+.yarn/cache/workbox-range-requests-npm-6.6.0-15fcc8d8e9-a55d1a364b.zip
+.yarn/cache/workbox-recipes-npm-6.6.0-d532be2448-f2ecf38502.zip
+.yarn/cache/workbox-routing-npm-6.6.0-4f121cf6d1-7a70b83619.zip
+.yarn/cache/workbox-strategies-npm-6.6.0-a13474e906-236232a77f.zip
+.yarn/cache/workbox-streams-npm-6.6.0-49d9d92ad1-64a295e48e.zip
+.yarn/cache/workbox-sw-npm-6.6.0-c45bc0a01e-bb5f8695de.zip
+.yarn/cache/workbox-webpack-plugin-npm-6.6.0-b93fc3a428-b8e04a342f.zip
+.yarn/cache/workbox-window-npm-6.6.0-e9667fec2c-bb1dd031c1.zip
+.yarn/cache/xmlbuilder-npm-15.1.1-becc60bf4e-14f7302402.zip
+.yarn/cache/yargs-npm-17.7.2-80b62638e1-73b572e863.zip
+.yarn/cache/yargs-parser-npm-21.1.1-8fdc003314-ed2d96a616.zip
+.yarn/cache/yauzl-npm-2.10.0-72e70ea021-7f21fe0bba.zip
