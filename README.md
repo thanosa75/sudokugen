@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Getting Started with the Sudoku Generator
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The sudoku generator is a simple React app that generates (and solves) Sudoku puzzles. It uses the 9x9 typical grid. To produce the final puzzle, it removes randomly digits according to the difficulty selected.
+
+The generator can be executed (and packaged) as a React app or a native OS application. See below for available scripts, installation and uninstall.
 
 ## Available Scripts
 
@@ -29,18 +31,31 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `yarn eject`
+### `yarn electron-dev`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Spins an Electron frontend that hooks up to a React server running the backend. You should have another terminal running `yarn start` so the backend process listens on the expected port `3000`. 
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+This frontend can be used for debugging purposes or preview, before proceeding to create the distribution artifacts.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+### `yarn electron-build-macos` and `yarn electron-build-windows`
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Each command builds the respective artifact:
+- for macOS, a DMG archive. The app inside it is not going to be notarized.
+- for Windows, an NSIS installer. The installer will properly install the app locally. 
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Installing the application
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+The produced artifacts can be used to install the application. For macOS, the DMG has a shortcut that points to the 'Applications'. Drag the App to the folder to complete installation.
+
+For Windows, an NSIS installer is produced. Execute the installer to install (option to install globally or for the current user only), and select whether the program will execute at the end of installation or not. Shortcuts on Desktop and Start menu are automatically created.
+
+## Uninstalling the application
+
+### macOS
+
+Typically, drag the application to the Bin removes it and all installed elements.
+
+### Windows
+
+When installation completes, NSIS generates the uninstaller and respective entry in the Add/Remove Programs. However, trying to uninstall will not work with an 'NSIS Error'. Apparently executing the uninstaller manually by adding /NCRC at the command line, the error is bypassed and uninstall proceeds correctly. See [here](https://nsis.sourceforge.io/Why_do_I_get_NSIS_Error) for details and instructions. 
