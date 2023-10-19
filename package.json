@@ -25,7 +25,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "electron-dev": "ELECTRON_START_URL=http://localhost:3000 electron .",
-    "electron-build-macos": "react-scripts build && electron-builder --publish never",
+    "electron-build-mac": "react-scripts build && electron-builder --publish never",
     "electron-build-win": "react-scripts build && electron-builder --publish never --x64 --win"
   },
   "build": {
