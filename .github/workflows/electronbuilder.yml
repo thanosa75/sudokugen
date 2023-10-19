@@ -1,4 +1,4 @@
-name: Electron Build on Tag
+name: Electron Build on Tag (Windows)
 
 on:
   push:
@@ -38,3 +38,31 @@ jobs:
       with:
         name: electron-installer
         path: dist/*.exe
+
+    - name: Create GitHub Release
+      id: create_release
+      uses: gh-actions/create-release@v1
+      with:
+        tag_name: ${{ github.ref }}
+        release_name: Release ${{ github.ref }}
+        draft: false
+        prerelease: false
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Get artifact name
+      id: get_filename
+      run: |
+        echo "::set-output name=filename::$(ls dist/*.exe)"
+
+    - name: Upload Release Asset
+      uses: actions/upload-release-asset@v1
+      with:
+        upload_url: ${{ steps.create_release.outputs.upload_url }}
+        asset_path: ${{ steps.get_filename.outputs.filename }}
+        asset_name: ${{ steps.get_filename.outputs.filename }}
+        asset_content_type: application/octet-stream
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+
